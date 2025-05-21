@@ -9,11 +9,3 @@ Link to the Kaggle project site:https://www.kaggle.com/crowdflower/twitter-airli
 The dataset has to be downloaded from the above Kagglewebsite.
 Objective:
 To classify the sentiment of tweets into the positive, neutral & negative.
-Learning Outcomes:
-Text based EDA
-
-Basic understanding of text pre-processing.
-
-What to do after text pre-processing:
-1. Bag of words
-2. Tf-idf
